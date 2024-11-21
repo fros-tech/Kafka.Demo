@@ -1,0 +1,5 @@
+C:\Users\Frank\RiderProjects\Kafka.Demo\obj\Debug\net6.0\Kafka.Demo.csproj.AssemblyReference.cache
+C:\Users\Frank\RiderProjects\Kafka.Demo\obj\Debug\net6.0\Kafka.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frank\RiderProjects\Kafka.Demo\obj\Debug\net6.0\Kafka.Demo.AssemblyInfoInputs.cache
+C:\Users\Frank\RiderProjects\Kafka.Demo\obj\Debug\net6.0\Kafka.Demo.AssemblyInfo.cs
+C:\Users\Frank\RiderProjects\Kafka.Demo\obj\Debug\net6.0\Kafka.Demo.csproj.CoreCompileInputs.cache
